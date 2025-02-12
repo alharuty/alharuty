@@ -18,7 +18,7 @@ Soy una apasionada de la programación con casi 3 años de experiencia en el apr
 
 ## 📌 Lenguajes más usados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyharuty&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alharuty&layout=compact&theme=radical)
 
 
 
