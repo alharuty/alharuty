@@ -1,6 +1,6 @@
 # ¡Hola! Me llamo Ally 👋
 
-## Soy una apasionada de la programación con casi 3 años de experiencia en el aprendizaje y desarrollo de software. Me encanta enfrentar nuevos desafíos, aprender constantemente y trabajar en equipo para crear soluciones innovadoras.
+### Soy una apasionada de la programación con casi 3 años de experiencia en el aprendizaje y desarrollo de software. Me encanta enfrentar nuevos desafíos, aprender constantemente y trabajar en equipo para crear soluciones innovadoras.
 
 # Tecnologías y habilidades 💻 
 
