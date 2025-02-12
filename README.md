@@ -1,10 +1,10 @@
-👋 # ¡Hola! Soy Ally
+# ¡Hola! Me llamo Ally 👋
 
-🚀 # Sobre mí
+# Sobre mí 🚀
 
 Soy una apasionada de la programación con casi 3 años de experiencia en el aprendizaje y desarrollo de software. Me encanta enfrentar nuevos desafíos, aprender constantemente y trabajar en equipo para crear soluciones innovadoras.
 
-💻 # Tecnologías y habilidades
+# Tecnologías y habilidades 💻 
 
 - Lenguajes de programación: C, JavaScript, Python
 
@@ -17,7 +17,7 @@ Soy una apasionada de la programación con casi 3 años de experiencia en el apr
 - Otros: Git, API REST, metodologías ágiles
 
 
-📕 # Mis estudios
+# Mis estudios 📕 
 
 - Programación en C en *Telefónica Madrid 42*
 - HTML y CSS en **Fundación Vass Bottega University**
@@ -25,7 +25,7 @@ Soy una apasionada de la programación con casi 3 años de experiencia en el apr
 - IA y Python en **Factoria F5**
   
 
-🌟 # Habilidades personales
+# Habilidades personales 🌟 
 
 - Proactiva y siempre dispuesta a aprender
 
@@ -33,7 +33,7 @@ Soy una apasionada de la programación con casi 3 años de experiencia en el apr
 
 - Resolución de problemas y pensamiento analítico
 
-📫 # Conéctate conmigo
+# Conéctate conmigo 📫 
 
 Puedes encontrarme en GitHub y en otras plataformas. 
 [Mi página web](con-codigo.com)
