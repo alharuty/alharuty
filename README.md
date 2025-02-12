@@ -10,7 +10,7 @@ Soy una apasionada de la programación con casi 3 años de experiencia en el apr
 
 - Frontend: React, HTML, CSS
 
-- Backend: Node.js, SQL (MySQL, PostgreSQL)
+- Backend: Node.js, SQL (MySQL, WorkbenchSQL)
 
 - Bases de datos: SQL, PostgreSQL, MySQL
 
