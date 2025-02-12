@@ -16,15 +16,16 @@ Soy una apasionada de la programación con casi 3 años de experiencia en el apr
 
 - Otros: Git, API REST, metodologías ágiles
 
-- ## 📊 Mis estadísticas en GitHub
+## 📌 Lenguajes más usados
 
-![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=alharuty&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyharuty&layout=compact&theme=radical)
+
 
 
 
 # Mis estudios 📕 
 
-- Programación en C en *Telefónica Madrid 42*
+- Programación en C en **Telefónica Madrid 42**
 - HTML y CSS en **Fundación Vass Bottega University**
 - Full Stack Developer con React y JS **Fundación Vass Bottega University**
 - IA y Python en **Factoria F5**
