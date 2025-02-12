@@ -16,6 +16,11 @@ Soy una apasionada de la programación con casi 3 años de experiencia en el apr
 
 - Otros: Git, API REST, metodologías ágiles
 
+- ## 📊 Mis estadísticas en GitHub
+
+![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=alharuty&show_icons=true&theme=radical)
+
+
 
 # Mis estudios 📕 
 
