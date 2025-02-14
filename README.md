@@ -1,6 +1,6 @@
 # ¡Hola! Me llamo Ally 👋
 
-### Soy una apasionada de la programación con casi 3 años de experiencia en el aprendizaje y desarrollo de software. Me encanta enfrentar nuevos desafíos, aprender constantemente y trabajar en equipo para crear soluciones innovadoras.
+### Hace casi 3 años descubrí el mundo de la programación y desde entonces no he dejado de aprender. Me encanta enfrentar nuevos desafíos, aprender constantemente y trabajar en equipo en nuevos proyectos.
 
 # Tecnologías y habilidades 💻 
 
@@ -17,9 +17,6 @@
 ## 📌 Lenguajes más usados
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alharuty&layout=compact&theme=radical)
-
-
-
 
 # Mis estudios 📕 
 
