@@ -36,7 +36,7 @@
 
 # Conéctate conmigo 📫 
 
-Puedes encontrarme en GitHub y en otras plataformas. 
+Puedes encontrarme en GitHub y en otras plataformas.<br>
 [Mi página web](con-codigo.com)<br>
 [Mi CV](https://alharuty.github.io/CV-alla/)<br>
 [Links de interés](https://linktr.ee/concodigo)<br>
