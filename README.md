@@ -16,7 +16,7 @@
 
 ## 📌 Lenguajes más usados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alharuty&layout=compact&theme=radical)
+![Mis Tops](https://github-readme-stats.vercel.app/api/top-langs/?username=alharuty&layout=compact&theme=radical)
 
 # Mis estudios 📕 
 
