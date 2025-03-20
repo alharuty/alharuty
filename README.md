@@ -23,21 +23,12 @@
 - Programación en C en **Telefónica Madrid 42**
 - HTML y CSS en **Fundación Vass Bottega University**
 - Full Stack Developer con React y JS **Fundación Vass Bottega University**
-- IA y Python en **Factoria F5**
-  
-
-# Habilidades personales 🌟 
-
-- Proactiva y siempre dispuesta a aprender
-
-- Trabajo en equipo y colaboración
-
-- Resolución de problemas y pensamiento analítico
+- IA y Python en **Factoria F5** - Actualmente
 
 # Conéctate conmigo 📫 
 
 Puedes encontrarme en GitHub y en otras plataformas.<br>
-[Mi página web](con-codigo.com)<br>
+[Mi página web](https://con-codigo.com)<br>
 [Mi CV](https://alharuty.github.io/CV-alla/)<br>
 [Links de interés](https://linktr.ee/concodigo)<br>
 ¡No dudes en contactarme para colaborar en proyectos interesantes!
