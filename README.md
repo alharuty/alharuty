@@ -20,12 +20,12 @@
 
 # Mis estudios 📕 
 
-- Programación en C en **Telefónica Madrid 42**
-- HTML y CSS en **Fundación Vass Bottega University**
-- Full Stack Developer con React y JS **Fundación Vass Bottega University**
 - IA y Python en **Factoria F5** - Actualmente
+- Full Stack Developer con React y JS **Fundación Vass Bottega University**
+- HTML y CSS en **Fundación Vass Bottega University**
+- Programación en C en **Telefónica Madrid 42**
 
-# Conéctate conmigo 📫 
+# Conecta conmigo 📫 
 
 Puedes encontrarme en GitHub y en otras plataformas.<br>
 [Mi página web](https://con-codigo.com)<br>
