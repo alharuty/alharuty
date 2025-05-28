@@ -12,7 +12,7 @@
 
 - Bases de datos: SQL, PostgreSQL, MySQL
 
-- Otros: Git, API REST, metodologías ágiles, Análisis de datos, PowerBI, pandas
+- Otros: Git, API REST, metodologías ágiles, Análisis de datos, PowerBI, pandas, Azure 
 
 ## 📌 Lenguajes más usados
 
