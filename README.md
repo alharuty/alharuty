@@ -20,7 +20,7 @@
 
 # Mis estudios 📕 
 
-- IA y Python en **Factoria F5** - Actualmente
+- Inteligencia Artifical y Data Scientist en **Factoria F5** - Actualmente
 - Full Stack Developer con React y JS **Fundación Vass Bottega University**
 - HTML y CSS en **Fundación Vass Bottega University**
 - Programación en C en **Telefónica Madrid 42**
