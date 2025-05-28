@@ -29,6 +29,5 @@
 
 Puedes encontrarme en GitHub y en otras plataformas.<br>
 [Mi página web](https://con-codigo.com)<br>
-[Mi CV](https://alharuty.github.io/CV-alla/)<br>
 [Links de interés](https://linktr.ee/concodigo)<br>
 ¡No dudes en contactarme para colaborar en proyectos interesantes!
