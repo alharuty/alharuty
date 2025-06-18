@@ -1,5 +1,10 @@
 # ¡Hola! Me llamo Ally 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=alharuty&color=blue)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alharuty&show_icons=true&theme=radical)
+
+
 ### Hace casi 3 años descubrí el mundo de la programación y desde entonces no he dejado de aprender. Me encanta enfrentar nuevos desafíos, aprender constantemente y trabajar en equipo en nuevos proyectos.
 
 # Tecnologías y habilidades 💻 
